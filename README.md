@@ -5,7 +5,7 @@ This is one of dataquest.io guided projects.
 
 Data 'Laptops' that we will gonna use originally came from [here](https://www.kaggle.com/datasets/muhammetvarl/laptop-price). This is short description of rows:
 
-You can find the data that U used [here](http://bioinf-mw.bihz.upwr.edu.pl/students-data/laptops.csv)
+You can find the data that I used [here](http://bioinf-mw.bihz.upwr.edu.pl/students-data/laptops.csv)
 * ID: A unique identifier for the laptop.
 * Company: The name of the company that produces the laptop.
 * Product: The name of the laptop.
